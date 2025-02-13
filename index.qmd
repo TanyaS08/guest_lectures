@@ -1,0 +1,65 @@
+---
+title: "Species Interaction Networks"
+author: "Tanya Strydom"
+format:
+  revealjs: 
+    incremental: true  
+    slide-number: true
+    chalkboard: 
+      buttons: true
+    theme: night
+    institute: "University of Sheffield"
+date: last-modified
+bibliography: references.bib
+---
+
+## Types of Networks
+
+-   Food webs
+    -   Metawebs [@dunne2006]
+    -   Realised webs
+-   Non-trophic Webs
+
+# Constructing Food Webs
+
+## The Challenge
+
+-   Empirical
+-   Aggregation
+-   Interaction vs structure
+
+::: footer
+Constructing Food Webs
+:::
+
+## Predicting interactions: Mechanistic models
+
+-   Feasibility
+-   Does species $a$ have the capacity to consume species $b$
+
+::: footer
+Constructing Food Webs
+:::
+
+## Predicting interactions: Deductive models
+
+-   Realised networks
+-   Body size and foraging models
+
+::: footer
+Constructing Food Webs
+:::
+
+## Predicting Structure
+
+-   Species agnostic
+-   Topology drive and constrained
+
+::: footer
+Constructing Food Webs
+:::
+
+## References
+
+::: {#refs}
+:::
