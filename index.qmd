@@ -5,8 +5,7 @@ format:
   revealjs: 
     incremental: true  
     slide-number: true
-    chalkboard: 
-      src: drawings.json
+    chalkboard:
       buttons: true
     theme: night
     institute: "University of Sheffield"
