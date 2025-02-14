@@ -6,9 +6,11 @@ format:
     incremental: true  
     slide-number: true
     chalkboard: 
+      src: drawings.json
       buttons: true
     theme: night
     institute: "University of Sheffield"
+    preview-links: true
 date: last-modified
 bibliography: references.bib
 ---
