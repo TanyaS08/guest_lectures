@@ -16,18 +16,40 @@ bibliography: references.bib
 
 ## Types of Networks
 
+:::: {.columns .fragment}
+
+::: {.column width="40%"}
 -   Food webs
     -   Metawebs [@dunne2006]
     -   Realised webs
--   Non-trophic Webs
+- Non-trophic interactions
+:::
+
+::: {.column width="60%"}
+![](images/anatomy.png)
+![](images/anatomy.png)
+![](images/anatomy.png)
+:::
+
+::::
 
 # Constructing Food Webs
 
 ## The Challenge
 
+:::: {.columns}
+
+::: {.column width="40%"}
 -   Empirical
 -   Aggregation
 -   Interaction vs structure
+:::
+
+::: {.column width="60%"}
+Right column
+:::
+
+::::
 
 ::: footer
 Constructing Food Webs
@@ -45,7 +67,7 @@ Constructing Food Webs
 ## Predicting interactions: Deductive models
 
 -   Realised networks
--   Body size and foraging models
+-   Body size and foraging models *e.g.,* ADBM [@beckerman2006]
 
 ::: footer
 Constructing Food Webs
